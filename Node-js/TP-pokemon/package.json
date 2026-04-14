@@ -1,0 +1,12 @@
+{
+  "name": "tp-pokemon-cli",
+  "version": "1.0.0",
+  "description": "TP Pokemon CLI with Node.js",
+  "main": "cli.js",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
